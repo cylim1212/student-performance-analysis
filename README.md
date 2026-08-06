@@ -20,7 +20,7 @@ This project uses the **Students Performance in Exams** dataset published on Kag
 - **Source:** [Students Performance in Exams on Kaggle](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 - **Records:** 1,000 student records
 - **Variables:** Gender, race/ethnicity group, parental education, lunch type, test-preparation status, and math, reading, and writing scores
-- **Acknowledgement:** The Kaggle page acknowledges Royce Kimmons' generated exam data tool.
+- **Acknowledgement:** The Kaggle dataset page credits Royce Kimmons' exam data generation tool as the original data source.
 
 The Kaggle listing labels the license as **Unknown**, so the CSV file is not redistributed in this repository.
 
